@@ -1,0 +1,9 @@
+C:\Users\RicardoMontalvoAcost\Desktop\TareaAppNet4\bin\Debug\TareaApp.exe.config
+C:\Users\RicardoMontalvoAcost\Desktop\TareaAppNet4\bin\Debug\TareaApp.exe
+C:\Users\RicardoMontalvoAcost\Desktop\TareaAppNet4\bin\Debug\TareaApp.pdb
+C:\Users\RicardoMontalvoAcost\Desktop\TareaAppNet4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RicardoMontalvoAcost\Desktop\TareaAppNet4\obj\Debug\TareaApp.csproj.AssemblyReference.cache
+C:\Users\RicardoMontalvoAcost\Desktop\TareaAppNet4\obj\Debug\TareaApp.csproj.CoreCompileInputs.cache
+C:\Users\RicardoMontalvoAcost\Desktop\TareaAppNet4\obj\Debug\TareaApp.csproj.Up2Date
+C:\Users\RicardoMontalvoAcost\Desktop\TareaAppNet4\obj\Debug\TareaApp.exe
+C:\Users\RicardoMontalvoAcost\Desktop\TareaAppNet4\obj\Debug\TareaApp.pdb
